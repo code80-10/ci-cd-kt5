@@ -1,0 +1,8 @@
+Build:
+gradle build
+
+Run tests:
+gradle test
+
+HTML report:
+C:\Users\carti\Documents\CI-CD-KT5\build\reports\tests\test\index.html
